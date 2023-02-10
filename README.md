@@ -1,1 +1,0 @@
-# rajathramegowda.github.io
