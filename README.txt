@@ -1,2 +1,2 @@
 Personal Website:
-Swathi Jadav
+Rajath Ramegowda
