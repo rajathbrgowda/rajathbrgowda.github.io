@@ -236,7 +236,7 @@ input, select, textarea {
 		}
 
 		.row.aln-center {
-			justify-content: center;
+			justify-content: center !important;
 		}
 
 		.row.aln-right {
