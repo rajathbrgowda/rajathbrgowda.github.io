@@ -2991,3 +2991,13 @@ i {
 .education-content p{
 	color: white;
 } */
+
+.experience-content h3{
+	color: white !important;
+}
+.experience-content h4{
+	color: black !important;
+}
+.experience-content p{
+	color: black !important;
+}
