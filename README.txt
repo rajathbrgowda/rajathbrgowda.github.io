@@ -1,34 +1,14 @@
-Escape Velocity by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my personal portfolio website!
 
+If you are reading this, I am sure you must have liked my work :p
 
-A new responsive template featuring a flat (but not too flat) minimalistic design, spacious
-layout, and styling for all basic page elements. Its demo images* are courtesy of the supremely
-talented photographer Felicia Simion. If you like photography or just enjoy being blown away by
-awesome stuff, check out her portfolio for more stunning images:
+This platform serves as a reflection of my journey, showcasing my passion for innovative tech solutions and creative design. As a dedicated enthusiast in the realm of technology, I've assembled a collection of my projects, experiences, and skills to provide a glimpse into my professional endeavors.
 
-http://ineedchemicalx.deviantart.com/
+Explore through my diverse projects, ranging from software development and system integration to user-centric design. This repository encapsulates my commitment to excellence, creativity, and a continual quest for knowledge.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Feel free to navigate through my work and get in touch to discuss collaborations, ideas, or simply to connect and share insights. Thank you for visiting and taking the time to explore my portfolio!
 
 
 Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	Special thanks to Escape Velocity | @ajlkn for the support and inspiration to curate innovative ideas for portfolio websites.
+	
